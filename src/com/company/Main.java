@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Character queen = new Queen("queen");
-        Character king = new King("king");
-        Character knight = new Knight("knight");
+        Character queen = new Queen();
+        Character king = new King();
+        Character knight = new Knight();
         queen.move();
         king.move();
         knight.move();

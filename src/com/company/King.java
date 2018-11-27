@@ -2,7 +2,7 @@ package com.company;
 
 public class King extends Character {
 
-    public King(String name) { super(name); }
+    public King() { super("King"); }
 
     public void move() { System.out.println("one step forward");  }
 }
