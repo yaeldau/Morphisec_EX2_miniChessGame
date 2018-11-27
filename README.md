@@ -18,3 +18,27 @@ Your main function should create the 3 characters and perform the move on each c
 Notice:
 - No need to implement UI or any other aspect of the game.
 - Preferred to use design patterns
+
+##
+## instructions
+
+Open a shell and traverse to a directory in your computer where you wish to store
+the code. For example, in Windows:
+```shell
+$  mkdir empty_folder
+$  cd empty_folder
+```
+In a git shell, execute the following command:
+```shell
+$ git clone https://github.com/yaeldau/Morphisec_EX2_miniChessGame.git
+```
+
+Back to command line:
+```shell
+$ cd MiniChessGame
+$ java -jar MiniChessGame.jar
+```
+
+### enjoy!
+
+
